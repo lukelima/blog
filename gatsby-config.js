@@ -22,11 +22,11 @@ module.exports = {
       "contact form"
     ],
     social: {
-      twitter: ``,
+      twitter: `cephalopodluke`,
       facebook: ``,
-      github: ``,
-      email: ``,
-      linkedin: ``,
+      github: `lukelima`,
+      email: `lukelimasilva@outlook.com`,
+      linkedin: `https://www.linkedin.com/in/lukelima/`,
       formspree: ''
     },
     image: '/fresh.png',
