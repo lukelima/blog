@@ -842,7 +842,7 @@ pre code {
 
 .sidebar-menu .menu-links {
   font-size: 1.2rem;
-  text-transform: uppercase;
+  text-transform: capitalize;
   display: block;
   text-decoration: none;
   padding: 1rem 1.3rem;
@@ -880,9 +880,9 @@ pre code {
 .sidebar-logo .logo {
   /* font-family: 'Finger Paint', cursive; */
   color: #15f3a8;
-  text-transform: uppercase;
+  text-transform: capitalize;
   text-decoration: none;
-  font-size: 3rem;
+  font-size: 2rem;
   font-weight: 700;
 }
 
@@ -982,7 +982,7 @@ pre code {
 .post .post-date span,
 .post .page-date span {
   font-size: 0.8rem;
-  text-transform: uppercase;
+  text-transform: capitalize;
   font-family: monospace;
   color: lightgreen;
 }
@@ -1013,7 +1013,7 @@ img.page-img {
 .pagination a.previous {
   padding: 1rem 2.5rem;
   color: white;
-  text-transform: uppercase;
+  text-transform: capitalize;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.3);
   text-decoration: none;
   background: #15f3a8;
@@ -1028,7 +1028,7 @@ img.page-img {
 
 .pagination span.next,
 .pagination span.previous {
-  text-transform: uppercase;
+  text-transform: capitalize;
   color: white;
   padding: 1rem 2.5rem;
   background: #ccc;
@@ -1079,7 +1079,7 @@ img.page-img {
   margin: 0 auto;
   display: inherit;
   font-size: 0.8rem;
-  text-transform: uppercase;
+  text-transform: capitalize;
   padding: 1rem 1.5rem;
   color: #fff;
   background: #15f3a8;

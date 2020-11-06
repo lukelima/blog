@@ -1,6 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
-import { FaLinkedin, FaTwitter, FaGithub, FaFacebookF, FaEnvelope, FaTelegramPlane } from "react-icons/fa";
+import { FaLinkedin, FaTwitter, FaGithub, FaEnvelope } from "react-icons/fa";
 import { useStaticQuery, graphql } from "gatsby"
 
 
@@ -51,10 +51,10 @@ const SideBar = () => {
     </div>
 
     <div className="sidebar-social">
-      <li className="social-items"><a href={email} className="social-links" target="_blank" rel="noopener noreferrer"><FaEnvelope className="social-icons"/></a></li>
-      <li className="social-items"><a href={github} className="social-links" target="_blank" rel="noopener noreferrer"><FaGithub className="social-icons"/></a></li>
-      <li className="social-items"><a href={linkedin} className="social-links" target="_blank" rel="noopener noreferrer"><FaLinkedin className="social-icons"/></a></li>
-      <li className="social-items"><a href={twitter} className="social-links" target="_blank" rel="noopener noreferrer"><FaTwitter className="social-icons"/></a></li>
+      <li className="social-items"><a href={email} className="social-links" target="_blank" rel="noopener noreferrer" aria-label="Email"><FaEnvelope className="social-icons"/></a></li>
+      <li className="social-items"><a href={github} className="social-links" target="_blank" rel="noopener noreferrer" aria-label="GitHub"><FaGithub className="social-icons"/></a></li>
+      <li className="social-items"><a href={linkedin} className="social-links" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn"><FaLinkedin className="social-icons"/></a></li>
+      <li className="social-items"><a href={twitter} className="social-links" target="_blank" rel="noopener noreferrer" aria-label="Twitter"><FaTwitter className="social-icons"/></a></li>
     </div>
 
   </div>

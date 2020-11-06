@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Fresh`,
-    description: `GatsbyJS starter blog with the Fresh theme.`,
-    author: `@mishal23`,
+    title: `Lucas Silva`,
+    description: `Tecnologia, ciência e coisas da vida.`,
+    author: `@mishal23 || @cephalopodluke`,
     siteUrl: `https://gatsby-starter-fresh.netlify.app`,
     keywords: [
       "mishal23",
@@ -29,7 +29,7 @@ module.exports = {
       linkedin: `https://www.linkedin.com/in/lukelima/`,
       formspree: ''
     },
-    image: '/fresh.png',
+    image: '',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -51,7 +51,6 @@ module.exports = {
         background_color: `#2d2a2a`,
         theme_color: `#2d2a2a`,
         display: `minimal-ui`,
-        icon: `src/images/fresh-icon.png`, // This path is relative to the root of the site.
       },
     },
     {
