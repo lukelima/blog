@@ -5,7 +5,7 @@ description: "Um compilado de termos comumente usados ao falar sobre Cloud Compu
 keywords: cloud
 date: 2020-11-07 11:00:00 +0530
 blog: true
-
+author: "Lucas Lima da Silva"
 ---
 
 ## Início
@@ -17,11 +17,14 @@ Estou estudando para o exame Az-900 da Microsoft e percebi que alguns termos sã
 
 ### Cloud provider
 
-### Private cloud
-
 ### Public cloud
+Nessa modalidade, tudo pertence a algum cloud provider. Os serviços geralmente são acessados via conexão segura (internet). Usuários dessa modalidade podem compartilhar economizar custos compartilhando recursos computacionais com outros usuários de nuvem (sem que os dados de um usuário sejam acessados pelo outro).
+
+### Private cloud
+Nessa modalidade, uma organização possui um serviço de nuvem, o qual é administrado e mantido por ela. Ela cria um ambiente que disponibiliza acesso ao datacenter e recursos dentro da organização.
 
 ### Hybrid cloud
+
 
 ### IaaS - Infrastructure as a service
 Categoria mais básica de serviços de computação em nuvem, na qual é possível contratar servidores, máquinas virtuais, armazenamento, redes e sistemas operacionais. Exemplos incluem **DigitalOcean, AWS, Microsoft Azure** etc.

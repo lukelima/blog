@@ -19,7 +19,8 @@ const BlogPost = ({ path, data }) => {
     <Default></Default>
     <Post 
       title={markdownRemark.frontmatter.title} 
-      date={markdownRemark.frontmatter.date} >
+      date={markdownRemark.frontmatter.date} 
+      author={markdownRemark.frontmatter.author}>
       <div dangerouslySetInnerHTML={{ __html: markdownRemark.html }} />
     </Post>
     </>
