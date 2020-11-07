@@ -2,7 +2,7 @@
 title:  "Termos frequentes na nuvem"
 img: 
 description: "Um compilado de termos comumente usados ao falar sobre Cloud Computing"
-keywords: fresh, gatsby
+keywords: cloud
 date: 2020-11-07 11:00:00 +0530
 blog: true
 
@@ -14,16 +14,23 @@ Estou estudando para o exame Az-900 da Microsoft e percebi que alguns termos sã
 ## Termos
 
 ### Cloud Computing (Computing Cloud)
+
 ### Cloud provider
+
 ### Private cloud
-### Private cloud
+
+### Public cloud
+
 ### Hybrid cloud
 
-### PaaS
-### IaaS
-### SaaS
+### IaaS - Infrastructure as a service
+Categoria mais básica de serviços de computação em nuvem, na qual é possível contratar servidores, máquinas virtuais, armazenamento, redes e sistemas operacionais. Exemplos incluem **DigitalOcean, AWS, Microsoft Azure** etc.
 
-### Virtualization
+### PaaS - Platform as a service
+Fornece um ambiente para criar, testar e lançar aplicações, geralmente acompanhados por sistemas de gerenciamento de bancos de dados e business analytics. Você não precisa instalar um sistema operacional, servidor ou atualizações de sistemas. Exemplos incluem: **Heroku, Azure** etc.
+
+### SaaS - Software as a service
+Software destinado ao usuário final. Geralmente é licenciado por uma inscrição anual ou mensal, como o Microsoft 365.
 
 ### High availability - Alta disponibilidade
 É a capacidade de manter um sistema em funcionamento por longos períodos de tempo, havendo pouco ou nenhum tempo de inatividade (downtime).
@@ -49,3 +56,4 @@ Refere-se à capacidade de manter um sistema funcionando mesmo que haja alguma f
 * [Mini-glossary: Cloud computing terms you should know](https://www.techrepublic.com/blog/the-enterprise-cloud/mini-glossary-cloud-computing-terms-you-should-know/);
 * [A Cloud Computing Glossary](https://www.cloudwatchhub.eu/cloud-computing-glossary-0);
 * [Escalabilidade em Cloud Computing: por que ela é essencial?](https://www.fwc.com.br/blog/escalabilidade-em-cloud-computing-por-que-ela-e-essencial/);
+* [IaaS vs PaaS vs SaaS Enter the Ecommerce Vernacular: What You Need to Know, Examples & More](https://www.bigcommerce.com/blog/saas-vs-paas-vs-iaas/#the-three-types-of-cloud-computing-service-models-explained)
