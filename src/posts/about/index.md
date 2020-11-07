@@ -1,28 +1,23 @@
 ---
-title:  "About 🙋‍♂️"
+title:  "Sobre o autor 🙋‍♂"
 img: 
-description: "About Gatsby Starter Fresh Theme"
+description: "Sobre o autor"
 keywords: about, gatsby
-date: 2020-07-12 16:00:00 +0530
+date: 2020-11-07 10:00:00 +0530
 blog: false
 
 ---
 
-Hi 👋, Welcome to the `gatsby-starter-fresh` theme. Hope you like this theme and use it for your personal blog! The blog has the following features:
+### Olá 👋
 
-- Built with GatsbyJS
-- Blazing fast loading times
-- Uses the fresh theme
-- Custom 404 page
-- Mobile Friendly
-- High quality code (A)
-- Component seperated code
-- SEO Friendly
-- Google Analytics
-- In-built contact form powered by Formspree
-- Markdown support for new posts
-- Code syntax highlighting
-- Disqus support for comments
-- Supports PWA
-- Social Media icons
-- Sitemap Generation
+[![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/lukesilva_dev)](https://dev.to/lukesilva_dev)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lukelima/)](https://www.linkedin.com/in/lukelima/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cephalopodluke)](https://twitter.com/cephalopodluke)
+---
+[![Luke's github stats](https://github-readme-stats.vercel.app/api?username=lukelima)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+- 🔭 Trabalho atualmente na @ClearSale
+- 🌱 Estou aprendendo C# e Dart
+- 💬 Me pergunte qualquer coisa sobre **mobile apps**, **Flutter**, **Firebase** e **insetos** 🐝 
+- 😄 Pronomes: Ele/Dele
