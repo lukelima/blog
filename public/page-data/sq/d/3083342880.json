@@ -1,1 +1,1 @@
-{"data":{"allMarkdownRemark":{"edges":[{"node":{"fields":{"slug":"/lorem-ipsum"},"frontmatter":{"title":"Lorem Ipsum","date":"July 12, 2020","description":"This is lorem ipsum post. The content you write here goes as meta description and as a description for the post"}}}]}}}
+{"data":{"allMarkdownRemark":{"edges":[{"node":{"fields":{"slug":"/cloud-terms"},"frontmatter":{"title":"Termos frequentes na nuvem","date":"November 07, 2020","description":"Um compilado de termos comumente usados ao falar sobre Cloud Computing"}}}]}}}
