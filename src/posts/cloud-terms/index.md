@@ -13,9 +13,8 @@ Estou estudando para o exame Az-900 da Microsoft e percebi que alguns termos sã
 
 ## Termos
 
-### Cloud Computing (Computing Cloud)
-
 ### Cloud provider
+Uma empresa que fornece uma plataforma baseada em nuvem, infraestrutura, aplicação ou outros serviços para as organizações e indivíduos.
 
 ### Public cloud
 Nessa modalidade, tudo pertence a algum cloud provider. Os serviços geralmente são acessados via conexão segura (internet). Usuários dessa modalidade podem compartilhar economizar custos compartilhando recursos computacionais com outros usuários de nuvem (sem que os dados de um usuário sejam acessados pelo outro).
@@ -24,7 +23,7 @@ Nessa modalidade, tudo pertence a algum cloud provider. Os serviços geralmente 
 Nessa modalidade, uma organização possui um serviço de nuvem, o qual é administrado e mantido por ela. Ela cria um ambiente que disponibiliza acesso ao datacenter e recursos dentro da organização.
 
 ### Hybrid cloud
-
+Nessa modalidade, a empresa utiliza alguns recursos específicos em nuvem pública e outros em nuvem privada.
 
 ### IaaS - Infrastructure as a service
 Categoria mais básica de serviços de computação em nuvem, na qual é possível contratar servidores, máquinas virtuais, armazenamento, redes e sistemas operacionais. Exemplos incluem **DigitalOcean, AWS, Microsoft Azure** etc.
@@ -48,11 +47,14 @@ Software destinado ao usuário final. Geralmente é licenciado por uma inscriç�
 ### Elasticity
 Refere-se à capacidade de adicionar ou remover recursos conforme a necessidade. A diferença entre escalabilidade e elasticidade é que a **última é feita automaticamente**.
 
-### Fault tolerance - Tolerância a falhas **** adicionar conteúdo e exemplos
+### Fault tolerance - Tolerância a falhas
 Refere-se à capacidade de manter um sistema funcionando mesmo que haja alguma falha em um componente, um serviço etc. 
 
-### Disaster recovery - Recuperação de desastres **** adicionar conteúdo e exemplos
+### Disaster recovery - Recuperação de desastres
 É a capacidade de se recuperar de eventos que derrubaram um serviço em nuvem. 
+
+### SLA
+Um acordo contratual pelo qual um fornecedor define o núvel de serviço, responsabilidades, prioridades e outras garantias sobre disponibilidade, performance etc.
 
 ## Fontes
 * [Explore key cloud concepts](https://docs.microsoft.com/en-us/learn/modules/discuss-why-cloud-services/4-explore-key-cloud-concepts);
