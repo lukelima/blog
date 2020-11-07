@@ -1,5 +1,5 @@
 ---
-title:  "Termos frequentes na nuvem"
+title:  "Termos frequentemente utilizados em Cloud Computing"
 img: 
 description: "Um compilado de termos comumente usados ao falar sobre Cloud Computing"
 keywords: cloud
