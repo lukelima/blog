@@ -13,7 +13,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
   if (node.internal.type === `MarkdownRemark`) {
     const value = createFilePath({ node, getNode })
     const [month, day, year] = new Date(node.frontmatter.date)
-      .toLocaleDateString('en-EN', {
+      .toLocaleDateString('pt-br', {
         year: 'numeric',
         month: '2-digit',
         day: '2-digit',

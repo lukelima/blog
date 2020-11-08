@@ -7,7 +7,7 @@
 }
 
 .navbtn {
-  background-color: #15f3a8;
+  background-color: #a970ff;
   border: 1px;
   font-weight: 700;
   font-size: 16px;
@@ -23,7 +23,7 @@
 }
 
 .navbtn:hover {
-  background-color: #15f3a8;
+  background-color: #a970ff;
   color: #4a4545;
 }
 
@@ -40,13 +40,12 @@
 }
 
 li.active {
-  background-color: #15f3a8;
+  background-color: #a970ff;
   color: #4a4545 !important;
 }
 
 a.active {
-  background-color: #15f3a8;
-  color: #4a4545 !important;
+  background-color: #a970ff;
 }
 
 @media only screen and (max-width: 700px) {
