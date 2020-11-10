@@ -67,7 +67,8 @@ module.exports = {
           `gatsby-remark-images`,
           {
             resolve: `gatsby-remark-highlight-code`,
-          }
+          },
+          `gatsby-remark-copy-linked-files`
         ]
       }
     },
