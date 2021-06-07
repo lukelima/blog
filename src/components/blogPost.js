@@ -20,7 +20,8 @@ const BlogPost = ({ path, data }) => {
     <Post 
       title={markdownRemark.frontmatter.title} 
       date={markdownRemark.frontmatter.date} 
-      author={markdownRemark.frontmatter.author}>
+      author={markdownRemark.frontmatter.author}
+      keywords={markdownRemark.frontmatter.keywords}>
       <div dangerouslySetInnerHTML={{ __html: markdownRemark.html }} />
     </Post>
     </>

@@ -2,7 +2,7 @@ import React from "react"
 import PropTypes from "prop-types"
 
 
-const Post = ({ title, date, children }) => {
+const Post = ({ title, date, children, keywords }) => {
   return(
 		<main className="content">
   		<article className="page-article">
@@ -10,6 +10,7 @@ const Post = ({ title, date, children }) => {
         	<header className="page-header">
           	<h1 className="page-title"> {title} </h1>
             <div className="page-date"><span>{ date }&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
+            <div className="page-date"><span>{keywords}&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
           </header>
           <div className="page-content">
             { children }
